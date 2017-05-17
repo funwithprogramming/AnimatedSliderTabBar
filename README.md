@@ -1,4 +1,4 @@
 AnimatedSliderTabBar
 ====================
 
-chaged done in master
+chaged done in from_master
