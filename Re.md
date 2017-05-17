@@ -1,9 +1,1 @@
-AnimatedSliderTabBar
-====================
-
-
-
-___edmbejbdjebdjebdjebdjbjb
-
-
-+emfdnemdbekmbdeb
+commit 2 from f
